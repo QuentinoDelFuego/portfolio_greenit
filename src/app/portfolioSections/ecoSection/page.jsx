@@ -38,13 +38,13 @@ export default function Page() {
                     <li>The first thing I did was to use the app-routeur, which gives me as I said in the part above <br></br>
                     an eficient and fast way to create more pages, with less code.</li>
                     <br></br>
-                    <li>The second thing is that I didn't use useless images and animations to make <br></br>my website "shiny and beautiful",
-                    I go straight to the point and the only "animation" <br></br>I did is a hover animation just so you know you can click there.</li>
+                    <li>The second thing is that I didn&apos;t use useless images and animations to make <br></br>my website &apos;shiny and beautiful&apos;,
+                    I go straight to the point and the only &apos;animation&apos; <br></br>I did is a hover animation just so you know you can click there.</li>
                     <br></br>
                     <li>The logo in the top left corner of each page and the navbar helps simplify and <br></br>optimize the visit of the user
                     on my website to make you not wasting time<br></br> and go where you want easily and fast, which reduce<br></br>the time on the website.</li>
                     <br></br>
-                    <li>For the fourth way, I will speak about the links I put on various pages so the user doesn't have <br></br>
+                    <li>For the fourth way, I will speak about the links I put on various pages so the user doesn&apos;t have <br></br>
                     to open new tabs and manually go to Github or the mailbox to send me a message,<br></br>which reduce the ressources used.</li>
                     <br></br>
                     <li>And last, I used basic font to not download extra ressources<br></br>that are not essentials for the <span>website</span>.</li>
