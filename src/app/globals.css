@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#Navbar {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+button {
+    border-radius: 50px;
+    padding: 25px;
+    margin: 25px;
+}
+
+#welcomeMessage {
+    margin-top: 60px;
+}
+
+#ressourcesUtiles {
+    display: flex;
+    justify-content: right;
+    margin-right: 40px;
+    margin-top: 330px;
+    font-size: 18px;
+}
+
+#ressUtilesGithub {
+    margin-right: 35px;
+}
+
+#mailAboutPage {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#aboutme1, #skillsText, #IntroEcoSection {
+    font-size: 20px;
+    margin-top: 20px;
+    line-height: 40px;
+}
+
+#IntroEcoSection {
+    font-weight: bold;
+}
+
+#aboutNavbar {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#githubLinkProjectsPage {
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+#nextjsIsEco {
+    position: absolute;
+    top: 350px;
+    left: 75px;
+}
+
+#myWebsiteIsEco {
+    position: absolute;
+    top: 350px;
+    right: 75px;
+}
+
+#nextWays, #myWebsiteWays {
+    font-size: 23px;
+}
+
+span {
+    color : #FFC400;
+}
