@@ -69,12 +69,14 @@ button {
     position: absolute;
     top: 320px;
     left: 75px;
+    margin-bottom: 5px;
 }
 
 #myWebsiteIsEco {
     position: absolute;
     top: 320px;
     right: 75px;
+    margin-bottom: 5px;
 }
 
 #nextWays, #myWebsiteWays {
