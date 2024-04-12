@@ -12,7 +12,7 @@ export default function Page() {
                 for my website <span>concretely</span>.</p>
             </div>
             <div id="nextjsIsEco">
-                <p id="nextWays"><span>NextJS</span> help you create an eco-friendly website in many ways : </p>
+                <p id="nextWays">How <span>NextJS</span> help you create an eco-friendly website : </p>
                 <br></br>
                 <ul>
                     <li>First, NextJS gives you the app routeur, which gives you an efficient way <br></br>to create new pages 
@@ -32,7 +32,7 @@ export default function Page() {
                 </ul>
             </div>
             <div id="myWebsiteIsEco">
-                <p id="myWebsiteWays">For my website, I will give you 5 ways I used to make it more <span>eco-friendly</span> : </p>
+                <p id="myWebsiteWays">Why my website is <span>eco-friendly</span> : </p>
                 <br></br>
                 <ul>
                     <li>The first thing I did was to use the app-routeur, which gives me as I said in the part above <br></br>
